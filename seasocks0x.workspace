@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="seasocks0x" Database="" Version="10.0.0">
+  <Project Name="seasocks0x" Path="seasocks0x/seasocks0x.project" Active="No"/>
+  <Project Name="atomwsd" Path="atomwsd/atomwsd.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="seasocks0x" ConfigName="Debug"/>
+      <Project Name="atomwsd" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="seasocks0x" ConfigName="Release"/>
+      <Project Name="atomwsd" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
